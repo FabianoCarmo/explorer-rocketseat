@@ -12,7 +12,7 @@
 
 Landing page example coded from a template to practice HTML and CSS
 
-### Techs
+### :hammer_and_wrench: Techs
 
 - HTML
 - CSS

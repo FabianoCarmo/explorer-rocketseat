@@ -1,6 +1,6 @@
 # Customized Furniture Store Landing Page
 
-<img width="650px" src="https://github.com/FabianoCarmo/explorer-rocketseat/blob/main/gym-landing-page/assets/page.png">
+<img width="653px" src="https://github.com/FabianoCarmo/explorer-rocketseat/blob/main/customized-furniture-landing-page/assets/page.png">
 
 ## :memo: Menu Content
 

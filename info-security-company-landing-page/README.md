@@ -1,6 +1,6 @@
-# Gym Landing Page
+# Information Security Company Landing Page
 
-<img width="653px" src="https://github.com/FabianoCarmo/explorer-rocketseat/blob/main/gym-landing-page/assets/page.png">
+<img width="653px" src="https://github.com/FabianoCarmo/explorer-rocketseat/blob/main/info-security-company-landing-page/assets/page.png">
 
 ## :memo: Menu Content
 

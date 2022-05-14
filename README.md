@@ -6,15 +6,22 @@ Repository with all the projects and challenges created along the [Rocketseat](h
 
 - Rocketseat
 - The Explorer Program
+- Projects and Challenges
 - Author
 
 ### :rocket: Rocketseat
 
 The Rocketseat is a coding school with the goal of developing people with the desire to become professional programmers.
 
-### The Explorer Program
+### :artificial_satellite: The Explorer Program
 
 The Explorer Program offered by Rocketseat is a learning process focused on web development technologies. The program aims to give a solid and practical knowledge fundation on the main technologies currently requested by the web development market.
+
+### :file_folder: Projects and Challenges
+
+- [Customized furniture landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/customized-furniture-landing-page)
+- [Gym landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/gym-landing-page)
+- [Information security company landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/info-security-company-landing-page)
 
 ### :raising_hand: Author
 

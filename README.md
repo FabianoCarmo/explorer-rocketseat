@@ -15,7 +15,7 @@ The Rocketseat is a coding school with the goal of developing people with the de
 
 ### :artificial_satellite: The Explorer Program
 
-The Explorer Program offered by Rocketseat is a learning process focused on web development technologies. The program aims to give a solid and practical knowledge fundation on the main technologies currently requested by the web development market.
+The Explorer Program offered by Rocketseat is a learning process focused on web development technologies. The program aims to give a solid and practical knowledge foundation on the main technologies currently requested by the web development market.
 
 ### :file_folder: Projects and Challenges
 

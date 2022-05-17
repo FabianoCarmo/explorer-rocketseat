@@ -8,7 +8,7 @@
 
 ### :dart: Motivation
 
-Create an online event subscription form to practice HTML <form> and associated tags.
+Create an online event subscription form to practice HTML form tag and associated tags.
 
 ### :hammer_and_wrench: Techs
 

@@ -1,6 +1,4 @@
-# Information Security Company Landing Page
-
-<img width="650px" src="https://github.com/FabianoCarmo/explorer-rocketseat/blob/main/info-security-company-landing-page/assets/page.png">
+# Online event subscription form page
 
 ## :memo: Menu Content
 
@@ -10,7 +8,7 @@
 
 ### :dart: Motivation
 
-Landing page example coded from a template to practice HTML and CSS
+Create an online event subscription form to practice HTML <form> and associated tags.
 
 ### :hammer_and_wrench: Techs
 

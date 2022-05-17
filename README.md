@@ -22,6 +22,7 @@ The Explorer Program offered by Rocketseat is a learning process focused on web 
 - [Customized furniture landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/customized-furniture-landing-page)
 - [Gym landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/gym-landing-page)
 - [Information security company landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/info-security-company-landing-page)
+- [Online event subscription form page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/subscription-form-page)
 
 ### :raising_hand: Author
 

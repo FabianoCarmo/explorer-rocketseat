@@ -24,6 +24,7 @@ The Explorer Program offered by Rocketseat is a learning process focused on web 
 - [Information security company landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/info-security-company-landing-page)
 - [Online event subscription form page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/subscription-form-page)
 - [Responsive landing page](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/responsive-page)
+- [Responsive Landing Page with CSS Grid](https://github.com/FabianoCarmo/explorer-rocketseat/tree/main/responsive-grid-page)
 
 ### :raising_hand: Author
 

@@ -1,4 +1,4 @@
-# Online event subscription form page
+# Online Event Subscription Form Page
 
 ## :memo: Menu Content
 

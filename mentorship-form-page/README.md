@@ -1,4 +1,4 @@
-# Online Event Subscription Form Page
+# Mentorship Scheduling Form Page
 
 ## :memo: Menu Content
 
@@ -8,7 +8,7 @@
 
 ### :dart: Motivation
 
-Create an online event subscription form to practice HTML form tag and associated tags.
+Create an mentorship scheduling form to practice HTML form tag and associated tags.
 
 ### :hammer_and_wrench: Techs
 

@@ -8,7 +8,7 @@
 
 ### :dart: Motivation
 
-Create an mentorship scheduling form to practice HTML form tag and associated tags.
+Create a mentorship scheduling form to practice HTML form tag and associated tags.
 
 ### :hammer_and_wrench: Techs
 
